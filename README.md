@@ -1,5 +1,7 @@
 # ![logo](https://abload.de/img/15_14_skyfire_logoqyj68.png)
 
+***Database Release***
+
 ## Project Information
 SkyFire is a *MMORPG* Framework based mostly on C++.
 
@@ -66,9 +68,6 @@ Fixes are submitted as pull requests via Github.
 License: GPL 3.0
 
 Read file [LICENSE](LICENSE.md)
-
-## Authors &amp; Contributors
-Read file [THANKS](THANKS.md)
 
 ## Links
 Forum [https://forum.projectskyfire.org/](https://forum.projectskyfire.org/)
