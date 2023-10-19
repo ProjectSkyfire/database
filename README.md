@@ -1,6 +1,6 @@
 # ![logo](https://abload.de/img/15_14_skyfire_logoqyj68.png)
 
-***Database Release***
+***Database Master Release***
 
 ## Project Information
 SkyFire is a *MMORPG* Framework based mostly on C++.
